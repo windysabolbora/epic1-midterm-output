@@ -8,14 +8,14 @@ A spiral is a curved pattern that focuses on a center point and a series of circ
 
 
 Functions used:
-forward(value): It moves the turtle in forward direction.
-speed(value): It changes the speed of the turtle.
-left(value): It moves the turtle towards the left.
+➡️ forward(value): It moves the turtle in forward direction.
+➡️ speed(value): It changes the speed of the turtle.
+➡️ left(value): It moves the turtle towards the left.
 
 
 Approach:
-Import turtle
-Initialize the variable.
-Initialize the turtle.
-Start making the pattern according to your logic.
+➡️ Import turtle
+➡️ Initialize the variable.
+➡️ Initialize the turtle.
+➡️ Start making the pattern according to your logic.
 
